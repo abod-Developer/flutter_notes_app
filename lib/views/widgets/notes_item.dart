@@ -35,7 +35,7 @@ class _NoteItemState extends State<NoteItem> {
               child: Text("Build your career with tharwat samy",
               style: TextStyle(
                 color: Colors.black.withOpacity(.4),
-                fontSize: 20
+                fontSize: 18
               ),),
             ),
             trailing: IconButton(
